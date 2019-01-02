@@ -1,11 +1,11 @@
 {
   "name": "nobita-service",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "nobita-service",
   "main": "lib/nobita-service.js",
   "dependencies": {
     "lodash": "4.17.10",
-    "nobita-readdir": "0.0.1"
+    "nobita-readdir": "0.0.2"
   },
   "devDependencies": {
     "koa": "^2.5.0",

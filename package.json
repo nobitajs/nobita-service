@@ -1,6 +1,6 @@
 {
   "name": "nobita-service",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "nobita-service",
   "main": "lib/nobita-service.js",
   "dependencies": {

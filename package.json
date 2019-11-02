@@ -4,7 +4,7 @@
   "description": "nobita-service",
   "main": "lib/nobita-service.js",
   "dependencies": {
-    "lodash": "4.17.10",
+    "lodash": "4.17.15",
     "nobita-readdir": "0.0.4"
   },
   "devDependencies": {
